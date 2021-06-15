@@ -1,17 +1,5 @@
 # cinematna_verification
 
-A new Flutter application.
+This application is admin verification system for the web application "Cinematna" where the admin (cinema admin pre-registered on the website) should login on the application and then scan QR code, if the tickets are valid the application will give him list of tickets (single or multi) with ticket information (booked movie, cinema, day and time) and if the code is not valid the application will tell you tickets are not found.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Cinematna-Verification-System" 
+I built this application using flutter and also built needed APIs (login api and ticket searching api and their responses).
